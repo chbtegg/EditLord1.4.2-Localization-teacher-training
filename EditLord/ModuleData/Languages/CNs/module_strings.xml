@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+    <!-- Translations by chbtegg -->
+  </tags>
+  <strings>
+    <string id="Troops" text="部队" />
+	<string id="Unit Type" text="部队类型" />
+	<string id="Amount:" text="数量:" />
+	<string id="Add XP To All Units" text="将经验值添加到所有单位" />
+	<string id="All Units" text="全部单位" />
+	<string id="Your Units" text="你的单位" />
+	<string id="Inventory" text="仓库" />
+	<string id="All Items" text="全部道具" />
+	<string id="Item Type" text="道具类型" />
+	<string id="Your Items" text="你的道具" />
+	<string id="All Items" text="全部道具" />
+	<string id="Character(s)" text="人物" />
+	<string id="Character Traits" text="性格特征" />
+	<string id="Honor:" text="荣誉:" />
+	<string id="Mercy:" text="仁慈:" />
+	<string id="Valor:" text="英勇:" />
+	<string id="Calculating:" text="精明:" />
+	<string id="Generosity:" text="慷慨:" />
+	<string id="Set Early Stats" text="设置早期状态" />
+	<string id="Set Mid Stats" text="设置中间状态" />
+	<string id="Set Max Stats" text="设置最大状态" />
+	<string id="Bring Me" text="召唤同伴" />
+	<string id="Age" text="年龄" />
+	<string id="Add Influance" text="影响力+" />
+	<string id="Add Renown" text="声望+" />
+	<string id="Denars" text="金钱" />
+	<string id="Hero Stats  /" text="角色属性" />
+	<string id="VIG" text="活力" />
+	<string id="One Handed" text="单手" />
+	<string id="Two Handed" text="双手" />
+	<string id="Polearm" text="长杆武器" />
+	<string id="CTR" text="控制力" />
+	<string id="Bow" text="弓" />
+	<string id="Crossbow" text="十字弩" />
+	<string id="Throwing" text="投掷" />
+	<string id="END" text="耐力" />
+	<string id="Riding" text="骑术" />
+	<string id="Athletics" text="跑动" />
+	<string id="Smithing" text="锻造" />
+	<string id="CNG" text="狡诈" />
+	<string id="Scouting" text="侦察" />
+	<string id="Tactics" text="战术" />
+	<string id="Roguery" text="流氓习气" />
+	<string id="SOC" text="社交" />
+	<string id="Charm" text="魅力" />
+	<string id="Leadership" text="统御" />
+	<string id="Trade" text="交易" />
+	<string id="INT" text="智力" />
+	<string id="Steward" text="管理学" />
+	<string id="Medicine" text="医术" />
+	<string id="Engineering" text="工程学" />
+	<string id="Current Character: " text="当前角色：" />
+	<string id="(Main)" text=" ▾（主角）" />
+	<string id="(Comp)" text=" ▾（同伴）" />
+	<string id="All" text="全部" />
+	<string id="All Bandits" text="全部土匪" />
+	<string id="Influance: " text="影响: " />
+	<string id=" / Renown: " text=" / 声望: " />
+	<string id="EditLord edited you!" text="编辑器关闭!" />
+	<string id="All_1" text="全部" />
+	<string id="Horse_1" text="马" />
+	<string id="One Handed Weapons_1" text="单手武器" />
+	<string id="Two Handed Weapons_1" text="双手武器" />
+	<string id="Polearms_1" text="长杆武器" />
+	<string id="Arrows_1" text="箭矢" />
+	<string id="Bolts_1" text="弩箭" />
+	<string id="Shields_1" text="盾牌" />
+	<string id="Bows_1" text="弓" />
+	<string id="Crossbows_1" text="十字弩" />
+	<string id="Thrown_1" text="投掷" />
+	<string id="Goods_1" text="材料/食物" />
+	<string id="Helmets_1" text="头盔" />
+	<string id="Body Armor_1" text="盔甲" />
+	<string id="Leg Armor_1" text="足胫" />
+	<string id="Hand Armor_1" text="手甲" />
+	<string id="Pistols_1" text="火药枪" />
+	<string id="Muskets_1" text="滑膛枪" />
+	<string id="Bullets_1" text="子弹" />
+	<string id="Animals_1" text="家畜" />
+	<string id="Books_1" text="书籍" />
+	<string id="Chest Armor_1" text="胸甲" />
+	<string id="Capes_1" text="斗篷" />
+	<string id="Horse Harnesses_1" text="马具" />
+	<string id="Banners_1" text="旗帜" />
+	<!-- 定居点 -->
+	<string id="Settlements" text="定居点" />
+	<string id="Settlement Type" text="修改类型" />
+	<string id="Town and Castles" text="城镇和城堡" />
+	<string id="Villages" text="村庄" />
+    <string id="/  There is a tournament" text="- 正在进行比赛" />
+	<string id="Security" text="治安" />
+	<string id="Food" text="食物" />
+	<string id="Prosperity" text="繁荣" />
+	<string id="Hearth" text="户数" />
+	<string id="Militia" text="民兵" />
+	<string id="Loyalty" text="忠诚" />
+	<string id="Garrison Change" text="驻军" />
+	<string id="Complete the Constructions" text="立即完成施工" />
+	<string id="Town Trade Denars" text="城镇商人交易额" />
+    <!-- 其他人物 -->
+	<string id="Other Characters" text="其他人物" />
+	<string id="Add Companion" text="添加同伴" />
+	<string id="Teleport" text="传送位置" />
+	<string id="Release" text="释放囚犯" />
+    <string id="Walk to Point" text="步行位置" />
+	<string id="Relationship" text="关系" />
+	<string id="Character Type" text="人物类型" />
+	<string id="Faction Leader" text="派系首领" />
+	<string id="Party Leader" text="氏族首领" />
+	<string id="Companion" text="同伴" />
+	<string id="Enemies" text="敌人" />
+	<string id="Friends" text="朋友" />
+	<string id="Prisoners" text="囚犯" />
+    <!-- 系统提示 -->
+	<string id="Open the editor for" text="EditLord编辑器快捷键 " />
+</strings>
+</base>
